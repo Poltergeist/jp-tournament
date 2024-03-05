@@ -147,7 +147,7 @@ fs.readFile("./data/data.json", "utf8", (err, dataString) => {
     };
     data.rounds.push(round);
   }
-  fs.writeFile("./data/data.json", JSON.stringify(data), (err) => {
+  fs.writeFile("./data/data.json", JSON.stringify(data, null, 2), (err) => {
     if (err) {
       console.error(err);
       return;

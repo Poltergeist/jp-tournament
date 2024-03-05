@@ -14,7 +14,7 @@ fs.readFile("./players.md", "utf8", (err, playerString) => {
     .filter((x) => x !== "")
     .map((name) => ({ uuid: uuid(), name }));
   data.players = players;
-  fs.writeFile("./data/data.json", JSON.stringify(data), (err) => {
+  fs.writeFile("./data/data.json", JSON.stringify(data, null, 2), (err) => {
     if (err) {
       console.error(err);
       return;
