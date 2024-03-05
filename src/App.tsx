@@ -1,4 +1,3 @@
-import "./App.css";
 import data from "../data/data.json";
 import PlayerList from "./PlayerList";
 import Round from "./Round";
