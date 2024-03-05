@@ -8,10 +8,10 @@ jobs:
       CI_COMMIT_MESSAGE: generate a new round
       CI_COMMIT_AUTHOR: Continuous Integration
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     # Build steps
-    - uses: actions/setup-node@v3
+    - uses: actions/setup-node@v4
       with:
         node-version: '20' 
     - name: Node Install
