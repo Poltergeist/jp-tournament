@@ -262,7 +262,7 @@
       "id": 1,
       "games": [
         {
-          "winner": null,
+          "winner": "843_Christie",
           "players": [
             {
               "uuid": "3d920e8f-d64e-49a3-988b-b41cf3a6bc04",
@@ -287,7 +287,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "666_Hermine",
           "players": [
             {
               "uuid": "1deac4f0-2b95-40bc-818e-21261b2e2246",
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "706_Kylynn",
           "players": [
             {
               "uuid": "2562705b-e0a7-4699-b90f-15ecffdd10fc",
@@ -337,7 +337,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "804_Ginelle",
           "players": [
             {
               "uuid": "6c7ece44-e3cb-4934-b5f7-32bba2872d49",
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "893_Kacy",
           "players": [
             {
               "uuid": "dff5977a-4666-48c7-ac5d-0bbf5c266405",
@@ -387,7 +387,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "980_Billi",
           "players": [
             {
               "uuid": "32655103-7bc7-4e2c-95a8-26b388b12d0b",
@@ -412,7 +412,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "709_Ulrica",
           "players": [
             {
               "uuid": "2a299695-4201-47c9-b01e-95f80b04f946",
@@ -437,7 +437,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "750_Alexa",
           "players": [
             {
               "uuid": "21c564ea-73f4-472c-92de-319d027fcac3",
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "765_Myrtie",
           "players": [
             {
               "uuid": "ffee9c43-99a9-4310-a666-822fbaa9728d",
@@ -487,7 +487,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "902_Monica",
           "players": [
             {
               "uuid": "0ac884b6-3092-4585-835d-1ff340b19979",
@@ -512,7 +512,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "950_Fayette",
           "players": [
             {
               "uuid": "3f1d469c-bdf9-4568-8b41-ffb156cb607a",
@@ -537,7 +537,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "973_Meris",
           "players": [
             {
               "uuid": "017e9289-979f-4970-b5d2-cf48b21c3021",
@@ -562,7 +562,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "911_Em",
           "players": [
             {
               "uuid": "eef36e26-677c-41b8-8da5-c15d7145d0b9",
@@ -587,7 +587,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "695_Loren",
           "players": [
             {
               "uuid": "1b774d42-c970-4b17-87b7-52f679dd79a7",
@@ -612,7 +612,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "982_Clara",
           "players": [
             {
               "uuid": "00ae2722-c25e-46a1-8655-53d881e25c6d",
@@ -637,7 +637,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "892_Nettle",
           "players": [
             {
               "uuid": "02be3818-7620-4899-9783-56a34b31ad53",
