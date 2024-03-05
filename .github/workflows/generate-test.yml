@@ -1,0 +1,30 @@
+name: Generate Test Tournament 
+on:
+  workflow_dispatch:
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    env: 
+      CI_COMMIT_MESSAGE: Generate Demo Tournament 
+      CI_COMMIT_AUTHOR: Continuous Integration
+    steps:
+    - uses: actions/checkout@v4
+
+    # Build steps
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '20' 
+    - name: Node Install
+      run: npm ci
+    - name: generate players
+      run: node generate-test-players.js
+    - name: import players
+      run: node import-players.js
+
+    - name: Add changed data.json file
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "reset@sp3c1.com"
+        git add data/data.json
+        git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push
