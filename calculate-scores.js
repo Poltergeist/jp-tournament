@@ -12,7 +12,7 @@ fs.readFile("./data/data.json", "utf8", (err, json) => {
   }
 
   const data = JSON.parse(json);
-  data.players = data.players.map((player) => ({ ...player, score: 1000 }))
+  data.players = data.players.map((player) => ({ ...player, score: 1000, wins: 0, losses: 0, draw: 0 }))
 
   data.rounds.map((round) => {
     round.games.map((game) => {
@@ -24,14 +24,20 @@ fs.readFile("./data/data.json", "utf8", (err, json) => {
         if (losers.includes(player.name)) {
           const loss = Math.round(player.score * 0.07);
           winnerScore += loss;
-          return { ...player, score: player.score - loss }
+          if (winner === "draw") {
+            return { ...player, score: player.score - loss, draw: player.draw + 1 }
+          }
+          return { ...player, score: player.score - loss, losses: player.losses + 1 }
         }
         if (player.name === winner) {
           winnerIndex = index
         }
         return player;
       });
-      data.players[winnerIndex].score += winnerScore;
+      if (winner !== "draw") {
+        data.players[winnerIndex].score += winnerScore;
+        data.players[winnerIndex].wins += 1
+      }
     });
   });
 
