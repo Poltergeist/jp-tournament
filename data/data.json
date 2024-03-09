@@ -1,324 +1,516 @@
 {
   "players": [
     {
-      "uuid": "b7ede97b-46fe-4a4f-9cce-3f13badf7d3a",
-      "name": "973_Meris",
-      "score": 1588
+      "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+      "name": "847_Daphene",
+      "score": 2299,
+      "wins": 6,
+      "losses": 0,
+      "draw": 0
     },
     {
-      "uuid": "77667f06-53ab-4fca-aaf8-3fe819d5d211",
-      "name": "221_Hailee",
-      "score": 804
+      "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+      "name": "917_Sibel",
+      "score": 2163,
+      "wins": 6,
+      "losses": 0,
+      "draw": 0
     },
     {
-      "uuid": "1b774d42-c970-4b17-87b7-52f679dd79a7",
-      "name": "426_Maura",
-      "score": 804
+      "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+      "name": "893_Grace",
+      "score": 1682,
+      "wins": 4,
+      "losses": 1,
+      "draw": 1
     },
     {
-      "uuid": "41ccdcbe-b7d0-473d-966c-46cacc1c7701",
-      "name": "482_Mei",
-      "score": 804
+      "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+      "name": "980_Nara",
+      "score": 1552,
+      "wins": 4,
+      "losses": 0,
+      "draw": 2
     },
     {
-      "uuid": "6c7ece44-e3cb-4934-b5f7-32bba2872d49",
-      "name": "678_Mei",
-      "score": 804
+      "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+      "name": "843_Bunny",
+      "score": 1371,
+      "wins": 3,
+      "losses": 2,
+      "draw": 1
     },
     {
-      "uuid": "017e9289-979f-4970-b5d2-cf48b21c3021",
-      "name": "785_Letti",
-      "score": 1344
+      "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+      "name": "847_Katusha",
+      "score": 1340,
+      "wins": 3,
+      "losses": 3,
+      "draw": 0
     },
     {
-      "uuid": "9ec1fb11-f926-4a76-a0b3-4c8e2b8a5055",
-      "name": "640_Luce",
-      "score": 1046
+      "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+      "name": "481_Frieda",
+      "score": 1325,
+      "wins": 3,
+      "losses": 2,
+      "draw": 1
     },
     {
-      "uuid": "ffee9c43-99a9-4310-a666-822fbaa9728d",
-      "name": "427_Latashia",
-      "score": 804
+      "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+      "name": "804_Ada",
+      "score": 1292,
+      "wins": 3,
+      "losses": 1,
+      "draw": 2
     },
     {
-      "uuid": "eef36e26-677c-41b8-8da5-c15d7145d0b9",
-      "name": "529_Deana",
-      "score": 1046
+      "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+      "name": "740_Josefa",
+      "score": 1277,
+      "wins": 3,
+      "losses": 2,
+      "draw": 1
     },
     {
-      "uuid": "3b1d171b-1042-4ecf-830e-a07b04d369cf",
-      "name": "695_Loren",
-      "score": 1588
+      "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+      "name": "701_Shane",
+      "score": 1276,
+      "wins": 3,
+      "losses": 0,
+      "draw": 3
     },
     {
-      "uuid": "b5fb7bd8-972a-4b95-a416-3a3cbd631c0a",
-      "name": "388_Othilie",
-      "score": 804
+      "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+      "name": "774_Sibelle",
+      "score": 1276,
+      "wins": 3,
+      "losses": 2,
+      "draw": 1
     },
     {
-      "uuid": "2562705b-e0a7-4699-b90f-15ecffdd10fc",
-      "name": "510_Norry",
-      "score": 804
+      "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+      "name": "468_Alejandra",
+      "score": 1276,
+      "wins": 3,
+      "losses": 3,
+      "draw": 0
     },
     {
-      "uuid": "32655103-7bc7-4e2c-95a8-26b388b12d0b",
-      "name": "687_Kala",
-      "score": 1048
+      "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+      "name": "751_Devan",
+      "score": 1114,
+      "wins": 2,
+      "losses": 2,
+      "draw": 2
     },
     {
-      "uuid": "8f59d1f1-5f70-4a70-9965-c9f2e41f4eea",
-      "name": "676_Abagail",
-      "score": 804
+      "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+      "name": "796_Martelle",
+      "score": 1112,
+      "wins": 2,
+      "losses": 1,
+      "draw": 3
     },
     {
-      "uuid": "3c9596fc-754f-43eb-b24f-abe760a0e691",
-      "name": "765_Myrtie",
-      "score": 1046
+      "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+      "name": "794_Winona",
+      "score": 1082,
+      "wins": 2,
+      "losses": 0,
+      "draw": 4
     },
     {
-      "uuid": "671c65cb-b75c-4766-ab07-815c18f073e7",
-      "name": "428_Rey",
-      "score": 804
+      "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+      "name": "745_Clementia",
+      "score": 1052,
+      "wins": 2,
+      "losses": 3,
+      "draw": 1
     },
     {
-      "uuid": "2d51213f-4e1b-4506-a14a-5ca9108a1e5c",
-      "name": "892_Nettle",
-      "score": 1344
+      "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+      "name": "566_Mina",
+      "score": 1052,
+      "wins": 2,
+      "losses": 4,
+      "draw": 0
     },
     {
-      "uuid": "1deac4f0-2b95-40bc-818e-21261b2e2246",
-      "name": "412_Vera",
-      "score": 804
+      "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+      "name": "733_Trudey",
+      "score": 1052,
+      "wins": 2,
+      "losses": 3,
+      "draw": 1
     },
     {
-      "uuid": "31029684-f4c1-4e92-833f-27a993f6b542",
-      "name": "208_Cristin",
-      "score": 804
+      "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+      "name": "845_Laural",
+      "score": 1052,
+      "wins": 2,
+      "losses": 2,
+      "draw": 2
     },
     {
-      "uuid": "072c10f1-a333-4621-ae21-b28fc6da3147",
-      "name": "771_Norean",
-      "score": 1046
+      "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+      "name": "628_Ainslee",
+      "score": 1050,
+      "wins": 2,
+      "losses": 4,
+      "draw": 0
     },
     {
-      "uuid": "02be3818-7620-4899-9783-56a34b31ad53",
-      "name": "727_Lenka",
-      "score": 804
+      "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+      "name": "697_Vickie",
+      "score": 1049,
+      "wins": 2,
+      "losses": 3,
+      "draw": 1
     },
     {
-      "uuid": "15737f18-8dc8-47c8-95cf-f6cb75af9be3",
-      "name": "429_Gertruda",
-      "score": 804
+      "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+      "name": "930_Anitra",
+      "score": 930,
+      "wins": 1,
+      "losses": 0,
+      "draw": 5
     },
     {
-      "uuid": "d14616f6-6cc6-4559-8f98-e7b75355f387",
-      "name": "336_Evangeline",
-      "score": 804
+      "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+      "name": "607_Dalila",
+      "score": 857,
+      "wins": 1,
+      "losses": 4,
+      "draw": 1
     },
     {
-      "uuid": "bb5bae13-3d33-48a3-8937-a4840eabbe67",
-      "name": "435_Erinna",
-      "score": 804
+      "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+      "name": "632_Dorothea",
+      "score": 856,
+      "wins": 1,
+      "losses": 3,
+      "draw": 2
     },
     {
-      "uuid": "8314eb77-947e-4c82-9a27-458fd7d4d708",
-      "name": "750_Alexa",
-      "score": 1588
+      "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+      "name": "755_Philis",
+      "score": 856,
+      "wins": 1,
+      "losses": 4,
+      "draw": 1
     },
     {
-      "uuid": "03192ced-8ae6-449d-94bd-b5a0554c9c63",
-      "name": "709_Ulrica",
-      "score": 1046
+      "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+      "name": "423_Lizabeth",
+      "score": 843,
+      "wins": 1,
+      "losses": 5,
+      "draw": 0
     },
     {
-      "uuid": "bcf762b5-3a5d-474a-bbbf-b51a9f8348e1",
-      "name": "960_Lelah",
-      "score": 1385
+      "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+      "name": "509_Modestia",
+      "score": 842,
+      "wins": 1,
+      "losses": 4,
+      "draw": 1
     },
     {
-      "uuid": "bcac69cc-1005-482b-9518-f7952e783977",
-      "name": "472_Phaidra",
-      "score": 804
+      "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+      "name": "837_Allyce",
+      "score": 842,
+      "wins": 1,
+      "losses": 2,
+      "draw": 3
     },
     {
-      "uuid": "33f2f56e-734e-4fcc-a1ef-656abe667ab9",
-      "name": "658_Bettye",
-      "score": 1048
+      "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+      "name": "593_Franky",
+      "score": 842,
+      "wins": 1,
+      "losses": 3,
+      "draw": 2
     },
     {
-      "uuid": "b6aee75b-6530-4bd0-bfb0-fdc04f16dacd",
-      "name": "851_Dre",
-      "score": 1065
+      "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+      "name": "387_Lyndsay",
+      "score": 841,
+      "wins": 1,
+      "losses": 4,
+      "draw": 1
     },
     {
-      "uuid": "72f0ea58-018a-4543-9adf-7c1267ecc7f8",
-      "name": "565_Anette",
-      "score": 804
+      "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+      "name": "582_Jilly",
+      "score": 841,
+      "wins": 1,
+      "losses": 3,
+      "draw": 2
     },
     {
-      "uuid": "b84ca1dc-9516-4249-9544-da0b2639f57c",
-      "name": "602_Norina",
-      "score": 804
+      "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+      "name": "415_Anabella",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "15df5601-de82-417d-a10e-8ed32e84d55e",
-      "name": "237_Maribel",
-      "score": 804
+      "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+      "name": "477_Bernadette",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "dff5977a-4666-48c7-ac5d-0bbf5c266405",
-      "name": "893_Kacy",
-      "score": 1325
+      "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+      "name": "132_Megen",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "1b818843-5938-4e3c-a33f-0b2ee4c28820",
-      "name": "843_Christie",
-      "score": 1046
+      "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+      "name": "217_Renata",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "6607d5c0-4c44-4625-9d3e-57fb6be41f10",
-      "name": "583_Liane",
-      "score": 804
+      "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+      "name": "515_Edin",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "63481553-09e9-42ec-93dd-b8540dd05886",
-      "name": "130_Fanya",
-      "score": 804
+      "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+      "name": "192_Ethelyn",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "3031552b-f21b-4b5c-9ade-1fc30ada735b",
-      "name": "950_Fayette",
-      "score": 1046
+      "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+      "name": "707_Micky",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "00ae2722-c25e-46a1-8655-53d881e25c6d",
-      "name": "940_Marcela",
-      "score": 1326
+      "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+      "name": "405_Glyn",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "0f7005d2-eadd-488d-9f87-f8b2d935fe53",
-      "name": "175_Asia",
-      "score": 804
+      "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+      "name": "538_Brandice",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "f58840d1-750a-4348-b1dd-196ba2cf6bf0",
-      "name": "507_Ema",
-      "score": 804
+      "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+      "name": "317_Sean",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "f012be20-f53d-4c44-87b2-bf05fcddd025",
-      "name": "982_Clara",
-      "score": 1685
+      "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+      "name": "267_Carree",
+      "score": 647,
+      "wins": 0,
+      "losses": 3,
+      "draw": 3
     },
     {
-      "uuid": "65568511-b886-4cea-8091-9126489265fb",
-      "name": "666_Hermine",
-      "score": 1046
+      "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+      "name": "348_Lesly",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "d62de2aa-819b-4a56-8bc1-50e6e7679f57",
-      "name": "804_Ginelle",
-      "score": 1046
+      "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+      "name": "350_Clareta",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "03a86bfc-6888-4e46-ab90-f787ac7174fe",
-      "name": "980_Billi",
-      "score": 1626
+      "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+      "name": "248_Maible",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "3f1d469c-bdf9-4568-8b41-ffb156cb607a",
-      "name": "219_Cyndia",
-      "score": 804
+      "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+      "name": "140_Therine",
+      "score": 647,
+      "wins": 0,
+      "losses": 3,
+      "draw": 3
     },
     {
-      "uuid": "011e5f5e-2150-43df-a40c-53a0d1213266",
-      "name": "361_Grayce",
-      "score": 804
+      "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+      "name": "211_Katerine",
+      "score": 647,
+      "wins": 0,
+      "losses": 2,
+      "draw": 4
     },
     {
-      "uuid": "98df3165-63bf-434d-a346-f5c53499cae1",
-      "name": "706_Kylynn",
-      "score": 1046
+      "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+      "name": "149_Tresa",
+      "score": 647,
+      "wins": 0,
+      "losses": 3,
+      "draw": 3
     },
     {
-      "uuid": "705949bc-6eb2-421b-8e0b-3ddc169d013f",
-      "name": "652_Olive",
-      "score": 804
+      "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+      "name": "176_Odetta",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "0ac884b6-3092-4585-835d-1ff340b19979",
-      "name": "902_Monica",
-      "score": 1326
+      "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+      "name": "440_Susana",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "d23f91b5-7e3d-4adf-a455-5f01ccf6c8e1",
-      "name": "911_Em",
-      "score": 1646
+      "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+      "name": "680_Caroljean",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "9da36077-ead2-44ce-8ea7-07ba07869d59",
-      "name": "174_Marni",
-      "score": 804
+      "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+      "name": "495_Daffy",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "098431ac-f977-4a1f-9c16-6ce3f8ea49b0",
-      "name": "217_Thelma",
-      "score": 804
+      "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+      "name": "309_Ralina",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "a480558c-2071-44af-9197-e33d7812f3b3",
-      "name": "796_Frederica",
-      "score": 1326
+      "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+      "name": "162_Adey",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "2a299695-4201-47c9-b01e-95f80b04f946",
-      "name": "633_Kelcie",
-      "score": 1046
+      "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+      "name": "261_Bel",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "d0b0ca98-09c3-46fd-9b86-be39293ef5b8",
-      "name": "746_Leonanie",
-      "score": 804
+      "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+      "name": "409_Delly",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "0ee62a4b-a75a-4087-9383-05d8b982c225",
-      "name": "804_Aggy",
-      "score": 1048
+      "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+      "name": "550_Siana",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "f2a3b032-fd5f-441e-ba18-7804d4ecfc99",
-      "name": "266_Doroteya",
-      "score": 804
+      "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+      "name": "232_Cynde",
+      "score": 647,
+      "wins": 0,
+      "losses": 3,
+      "draw": 3
     },
     {
-      "uuid": "fef1e37d-c98f-4cd5-9ea4-2cf29819083f",
-      "name": "810_Colly",
-      "score": 1048
+      "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+      "name": "310_Hailee",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     },
     {
-      "uuid": "21c564ea-73f4-472c-92de-319d027fcac3",
-      "name": "405_Aindrea",
-      "score": 804
+      "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+      "name": "245_Micki",
+      "score": 647,
+      "wins": 0,
+      "losses": 6,
+      "draw": 0
     },
     {
-      "uuid": "3d920e8f-d64e-49a3-988b-b41cf3a6bc04",
-      "name": "520_Karlee",
-      "score": 804
+      "uuid": "55db058e-21cd-4344-b868-785e21978189",
+      "name": "151_Nell",
+      "score": 647,
+      "wins": 0,
+      "losses": 5,
+      "draw": 1
     },
     {
-      "uuid": "89fb6d1d-2c08-4303-b8e7-953f085e1525",
-      "name": "450_Deb",
-      "score": 804
+      "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+      "name": "323_Danyelle",
+      "score": 647,
+      "wins": 0,
+      "losses": 3,
+      "draw": 3
     },
     {
-      "uuid": "bdc7839e-9792-4d38-94cd-dbef8d52a89d",
-      "name": "161_Willi",
-      "score": 804
+      "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+      "name": "258_Leila",
+      "score": 647,
+      "wins": 0,
+      "losses": 3,
+      "draw": 3
     },
     {
-      "uuid": "8df174f3-598a-45dd-b966-664a575f6c1a",
-      "name": "255_Delcina",
-      "score": 804
+      "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+      "name": "195_Leigh",
+      "score": 647,
+      "wins": 0,
+      "losses": 4,
+      "draw": 2
     }
   ],
   "rounds": [
@@ -326,401 +518,401 @@
       "id": 1,
       "games": [
         {
-          "winner": "843_Christie",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "3d920e8f-d64e-49a3-988b-b41cf3a6bc04",
-              "name": "520_Karlee",
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
               "seat": 1
             },
             {
-              "uuid": "072c10f1-a333-4621-ae21-b28fc6da3147",
-              "name": "771_Norean",
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
               "seat": 2
             },
             {
-              "uuid": "1b818843-5938-4e3c-a33f-0b2ee4c28820",
-              "name": "843_Christie",
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
               "seat": 3
             },
             {
-              "uuid": "41ccdcbe-b7d0-473d-966c-46cacc1c7701",
-              "name": "482_Mei",
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "666_Hermine",
+          "winner": "837_Allyce",
           "players": [
             {
-              "uuid": "1deac4f0-2b95-40bc-818e-21261b2e2246",
-              "name": "412_Vera",
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
               "seat": 1
             },
             {
-              "uuid": "15737f18-8dc8-47c8-95cf-f6cb75af9be3",
-              "name": "429_Gertruda",
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
               "seat": 2
             },
             {
-              "uuid": "65568511-b886-4cea-8091-9126489265fb",
-              "name": "666_Hermine",
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
               "seat": 3
             },
             {
-              "uuid": "0f7005d2-eadd-488d-9f87-f8b2d935fe53",
-              "name": "175_Asia",
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "706_Kylynn",
+          "winner": "593_Franky",
           "players": [
             {
-              "uuid": "2562705b-e0a7-4699-b90f-15ecffdd10fc",
-              "name": "510_Norry",
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
               "seat": 1
             },
             {
-              "uuid": "63481553-09e9-42ec-93dd-b8540dd05886",
-              "name": "130_Fanya",
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
               "seat": 2
             },
             {
-              "uuid": "98df3165-63bf-434d-a346-f5c53499cae1",
-              "name": "706_Kylynn",
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
               "seat": 3
             },
             {
-              "uuid": "bcac69cc-1005-482b-9518-f7952e783977",
-              "name": "472_Phaidra",
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "804_Ginelle",
+          "winner": "774_Sibelle",
           "players": [
             {
-              "uuid": "6c7ece44-e3cb-4934-b5f7-32bba2872d49",
-              "name": "678_Mei",
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
               "seat": 1
             },
             {
-              "uuid": "d62de2aa-819b-4a56-8bc1-50e6e7679f57",
-              "name": "804_Ginelle",
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
               "seat": 2
             },
             {
-              "uuid": "b5fb7bd8-972a-4b95-a416-3a3cbd631c0a",
-              "name": "388_Othilie",
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
               "seat": 3
             },
             {
-              "uuid": "098431ac-f977-4a1f-9c16-6ce3f8ea49b0",
-              "name": "217_Thelma",
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "893_Kacy",
+          "winner": "804_Ada",
           "players": [
             {
-              "uuid": "dff5977a-4666-48c7-ac5d-0bbf5c266405",
-              "name": "893_Kacy",
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
               "seat": 1
             },
             {
-              "uuid": "72f0ea58-018a-4543-9adf-7c1267ecc7f8",
-              "name": "565_Anette",
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
               "seat": 2
             },
             {
-              "uuid": "f58840d1-750a-4348-b1dd-196ba2cf6bf0",
-              "name": "507_Ema",
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
               "seat": 3
             },
             {
-              "uuid": "d14616f6-6cc6-4559-8f98-e7b75355f387",
-              "name": "336_Evangeline",
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "980_Billi",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "32655103-7bc7-4e2c-95a8-26b388b12d0b",
-              "name": "687_Kala",
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
               "seat": 1
             },
             {
-              "uuid": "bcf762b5-3a5d-474a-bbbf-b51a9f8348e1",
-              "name": "960_Lelah",
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
               "seat": 2
             },
             {
-              "uuid": "03a86bfc-6888-4e46-ab90-f787ac7174fe",
-              "name": "980_Billi",
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
               "seat": 3
             },
             {
-              "uuid": "011e5f5e-2150-43df-a40c-53a0d1213266",
-              "name": "361_Grayce",
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "709_Ulrica",
+          "winner": "468_Alejandra",
           "players": [
             {
-              "uuid": "2a299695-4201-47c9-b01e-95f80b04f946",
-              "name": "633_Kelcie",
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
               "seat": 1
             },
             {
-              "uuid": "bb5bae13-3d33-48a3-8937-a4840eabbe67",
-              "name": "435_Erinna",
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
               "seat": 2
             },
             {
-              "uuid": "33f2f56e-734e-4fcc-a1ef-656abe667ab9",
-              "name": "658_Bettye",
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
               "seat": 3
             },
             {
-              "uuid": "03192ced-8ae6-449d-94bd-b5a0554c9c63",
-              "name": "709_Ulrica",
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "750_Alexa",
+          "winner": "701_Shane",
           "players": [
             {
-              "uuid": "21c564ea-73f4-472c-92de-319d027fcac3",
-              "name": "405_Aindrea",
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
               "seat": 1
             },
             {
-              "uuid": "15df5601-de82-417d-a10e-8ed32e84d55e",
-              "name": "237_Maribel",
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
               "seat": 2
             },
             {
-              "uuid": "8314eb77-947e-4c82-9a27-458fd7d4d708",
-              "name": "750_Alexa",
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
               "seat": 3
             },
             {
-              "uuid": "f2a3b032-fd5f-441e-ba18-7804d4ecfc99",
-              "name": "266_Doroteya",
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "765_Myrtie",
+          "winner": "566_Mina",
           "players": [
             {
-              "uuid": "ffee9c43-99a9-4310-a666-822fbaa9728d",
-              "name": "427_Latashia",
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
               "seat": 1
             },
             {
-              "uuid": "705949bc-6eb2-421b-8e0b-3ddc169d013f",
-              "name": "652_Olive",
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
               "seat": 2
             },
             {
-              "uuid": "8f59d1f1-5f70-4a70-9965-c9f2e41f4eea",
-              "name": "676_Abagail",
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
               "seat": 3
             },
             {
-              "uuid": "3c9596fc-754f-43eb-b24f-abe760a0e691",
-              "name": "765_Myrtie",
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "902_Monica",
+          "winner": "847_Katusha",
           "players": [
             {
-              "uuid": "0ac884b6-3092-4585-835d-1ff340b19979",
-              "name": "902_Monica",
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
               "seat": 1
             },
             {
-              "uuid": "b84ca1dc-9516-4249-9544-da0b2639f57c",
-              "name": "602_Norina",
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
               "seat": 2
             },
             {
-              "uuid": "31029684-f4c1-4e92-833f-27a993f6b542",
-              "name": "208_Cristin",
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
               "seat": 3
             },
             {
-              "uuid": "77667f06-53ab-4fca-aaf8-3fe819d5d211",
-              "name": "221_Hailee",
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "950_Fayette",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "3f1d469c-bdf9-4568-8b41-ffb156cb607a",
-              "name": "219_Cyndia",
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
               "seat": 1
             },
             {
-              "uuid": "3031552b-f21b-4b5c-9ade-1fc30ada735b",
-              "name": "950_Fayette",
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
               "seat": 2
             },
             {
-              "uuid": "8df174f3-598a-45dd-b966-664a575f6c1a",
-              "name": "255_Delcina",
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
               "seat": 3
             },
             {
-              "uuid": "fef1e37d-c98f-4cd5-9ea4-2cf29819083f",
-              "name": "810_Colly",
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "973_Meris",
+          "winner": "481_Frieda",
           "players": [
             {
-              "uuid": "017e9289-979f-4970-b5d2-cf48b21c3021",
-              "name": "785_Letti",
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
               "seat": 1
             },
             {
-              "uuid": "a480558c-2071-44af-9197-e33d7812f3b3",
-              "name": "796_Frederica",
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
               "seat": 2
             },
             {
-              "uuid": "0ee62a4b-a75a-4087-9383-05d8b982c225",
-              "name": "804_Aggy",
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
               "seat": 3
             },
             {
-              "uuid": "b7ede97b-46fe-4a4f-9cce-3f13badf7d3a",
-              "name": "973_Meris",
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "911_Em",
+          "winner": "847_Daphene",
           "players": [
             {
-              "uuid": "eef36e26-677c-41b8-8da5-c15d7145d0b9",
-              "name": "529_Deana",
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
               "seat": 1
             },
             {
-              "uuid": "b6aee75b-6530-4bd0-bfb0-fdc04f16dacd",
-              "name": "851_Dre",
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
               "seat": 2
             },
             {
-              "uuid": "9da36077-ead2-44ce-8ea7-07ba07869d59",
-              "name": "174_Marni",
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
               "seat": 3
             },
             {
-              "uuid": "d23f91b5-7e3d-4adf-a455-5f01ccf6c8e1",
-              "name": "911_Em",
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "695_Loren",
+          "winner": "917_Sibel",
           "players": [
             {
-              "uuid": "1b774d42-c970-4b17-87b7-52f679dd79a7",
-              "name": "426_Maura",
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
               "seat": 1
             },
             {
-              "uuid": "3b1d171b-1042-4ecf-830e-a07b04d369cf",
-              "name": "695_Loren",
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
               "seat": 2
             },
             {
-              "uuid": "89fb6d1d-2c08-4303-b8e7-953f085e1525",
-              "name": "450_Deb",
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
               "seat": 3
             },
             {
-              "uuid": "bdc7839e-9792-4d38-94cd-dbef8d52a89d",
-              "name": "161_Willi",
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "982_Clara",
+          "winner": "509_Modestia",
           "players": [
             {
-              "uuid": "00ae2722-c25e-46a1-8655-53d881e25c6d",
-              "name": "940_Marcela",
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
               "seat": 1
             },
             {
-              "uuid": "6607d5c0-4c44-4625-9d3e-57fb6be41f10",
-              "name": "583_Liane",
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
               "seat": 2
             },
             {
-              "uuid": "9ec1fb11-f926-4a76-a0b3-4c8e2b8a5055",
-              "name": "640_Luce",
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
               "seat": 3
             },
             {
-              "uuid": "f012be20-f53d-4c44-87b2-bf05fcddd025",
-              "name": "982_Clara",
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "892_Nettle",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "02be3818-7620-4899-9783-56a34b31ad53",
-              "name": "727_Lenka",
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
               "seat": 1
             },
             {
-              "uuid": "2d51213f-4e1b-4506-a14a-5ca9108a1e5c",
-              "name": "892_Nettle",
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
               "seat": 2
             },
             {
-              "uuid": "671c65cb-b75c-4766-ab07-815c18f073e7",
-              "name": "428_Rey",
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
               "seat": 3
             },
             {
-              "uuid": "d0b0ca98-09c3-46fd-9b86-be39293ef5b8",
-              "name": "746_Leonanie",
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
               "seat": 4
             }
           ]
@@ -731,401 +923,401 @@
       "id": 2,
       "games": [
         {
-          "winner": "980_Billi",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "15df5601-de82-417d-a10e-8ed32e84d55e",
-              "name": "237_Maribel",
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
               "seat": 1
             },
             {
-              "uuid": "03192ced-8ae6-449d-94bd-b5a0554c9c63",
-              "name": "709_Ulrica",
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
               "seat": 2
             },
             {
-              "uuid": "fef1e37d-c98f-4cd5-9ea4-2cf29819083f",
-              "name": "810_Colly",
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
               "seat": 3
             },
             {
-              "uuid": "03a86bfc-6888-4e46-ab90-f787ac7174fe",
-              "name": "980_Billi",
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "785_Letti",
+          "winner": "796_Martelle",
           "players": [
             {
-              "uuid": "33f2f56e-734e-4fcc-a1ef-656abe667ab9",
-              "name": "658_Bettye",
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
               "seat": 1
             },
             {
-              "uuid": "1b774d42-c970-4b17-87b7-52f679dd79a7",
-              "name": "426_Maura",
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
               "seat": 2
             },
             {
-              "uuid": "72f0ea58-018a-4543-9adf-7c1267ecc7f8",
-              "name": "565_Anette",
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
               "seat": 3
             },
             {
-              "uuid": "017e9289-979f-4970-b5d2-cf48b21c3021",
-              "name": "785_Letti",
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "640_Luce",
+          "winner": "893_Grace",
           "players": [
             {
-              "uuid": "41ccdcbe-b7d0-473d-966c-46cacc1c7701",
-              "name": "482_Mei",
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
               "seat": 1
             },
             {
-              "uuid": "1deac4f0-2b95-40bc-818e-21261b2e2246",
-              "name": "412_Vera",
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
               "seat": 2
             },
             {
-              "uuid": "098431ac-f977-4a1f-9c16-6ce3f8ea49b0",
-              "name": "217_Thelma",
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
               "seat": 3
             },
             {
-              "uuid": "9ec1fb11-f926-4a76-a0b3-4c8e2b8a5055",
-              "name": "640_Luce",
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "750_Alexa",
+          "winner": "843_Bunny",
           "players": [
             {
-              "uuid": "671c65cb-b75c-4766-ab07-815c18f073e7",
-              "name": "428_Rey",
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
               "seat": 1
             },
             {
-              "uuid": "8314eb77-947e-4c82-9a27-458fd7d4d708",
-              "name": "750_Alexa",
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
               "seat": 2
             },
             {
-              "uuid": "77667f06-53ab-4fca-aaf8-3fe819d5d211",
-              "name": "221_Hailee",
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
               "seat": 3
             },
             {
-              "uuid": "02be3818-7620-4899-9783-56a34b31ad53",
-              "name": "727_Lenka",
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "633_Kelcie",
+          "winner": "980_Nara",
           "players": [
             {
-              "uuid": "15737f18-8dc8-47c8-95cf-f6cb75af9be3",
-              "name": "429_Gertruda",
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
               "seat": 1
             },
             {
-              "uuid": "f58840d1-750a-4348-b1dd-196ba2cf6bf0",
-              "name": "507_Ema",
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
               "seat": 2
             },
             {
-              "uuid": "2a299695-4201-47c9-b01e-95f80b04f946",
-              "name": "633_Kelcie",
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
               "seat": 3
             },
             {
-              "uuid": "21c564ea-73f4-472c-92de-319d027fcac3",
-              "name": "405_Aindrea",
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "982_Clara",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "f012be20-f53d-4c44-87b2-bf05fcddd025",
-              "name": "982_Clara",
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
               "seat": 1
             },
             {
-              "uuid": "1b818843-5938-4e3c-a33f-0b2ee4c28820",
-              "name": "843_Christie",
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
               "seat": 2
             },
             {
-              "uuid": "b84ca1dc-9516-4249-9544-da0b2639f57c",
-              "name": "602_Norina",
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
               "seat": 3
             },
             {
-              "uuid": "3031552b-f21b-4b5c-9ade-1fc30ada735b",
-              "name": "950_Fayette",
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "771_Norean",
+          "winner": "847_Daphene",
           "players": [
             {
-              "uuid": "072c10f1-a333-4621-ae21-b28fc6da3147",
-              "name": "771_Norean",
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
               "seat": 1
             },
             {
-              "uuid": "6c7ece44-e3cb-4934-b5f7-32bba2872d49",
-              "name": "678_Mei",
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
               "seat": 2
             },
             {
-              "uuid": "bcac69cc-1005-482b-9518-f7952e783977",
-              "name": "472_Phaidra",
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
               "seat": 3
             },
             {
-              "uuid": "8f59d1f1-5f70-4a70-9965-c9f2e41f4eea",
-              "name": "676_Abagail",
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "973_Meris",
+          "winner": "917_Sibel",
           "players": [
             {
-              "uuid": "b7ede97b-46fe-4a4f-9cce-3f13badf7d3a",
-              "name": "973_Meris",
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
               "seat": 1
             },
             {
-              "uuid": "0f7005d2-eadd-488d-9f87-f8b2d935fe53",
-              "name": "175_Asia",
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
               "seat": 2
             },
             {
-              "uuid": "6607d5c0-4c44-4625-9d3e-57fb6be41f10",
-              "name": "583_Liane",
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
               "seat": 3
             },
             {
-              "uuid": "31029684-f4c1-4e92-833f-27a993f6b542",
-              "name": "208_Cristin",
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "911_Em",
+          "winner": "845_Laural",
           "players": [
             {
-              "uuid": "d23f91b5-7e3d-4adf-a455-5f01ccf6c8e1",
-              "name": "911_Em",
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
               "seat": 1
             },
             {
-              "uuid": "32655103-7bc7-4e2c-95a8-26b388b12d0b",
-              "name": "687_Kala",
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
               "seat": 2
             },
             {
-              "uuid": "d62de2aa-819b-4a56-8bc1-50e6e7679f57",
-              "name": "804_Ginelle",
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
               "seat": 3
             },
             {
-              "uuid": "2d51213f-4e1b-4506-a14a-5ca9108a1e5c",
-              "name": "892_Nettle",
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "695_Loren",
+          "winner": "701_Shane",
           "players": [
             {
-              "uuid": "8df174f3-598a-45dd-b966-664a575f6c1a",
-              "name": "255_Delcina",
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
               "seat": 1
             },
             {
-              "uuid": "bdc7839e-9792-4d38-94cd-dbef8d52a89d",
-              "name": "161_Willi",
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
               "seat": 2
             },
             {
-              "uuid": "3b1d171b-1042-4ecf-830e-a07b04d369cf",
-              "name": "695_Loren",
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
               "seat": 3
             },
             {
-              "uuid": "705949bc-6eb2-421b-8e0b-3ddc169d013f",
-              "name": "652_Olive",
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "851_Dre",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "0ee62a4b-a75a-4087-9383-05d8b982c225",
-              "name": "804_Aggy",
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
               "seat": 1
             },
             {
-              "uuid": "3c9596fc-754f-43eb-b24f-abe760a0e691",
-              "name": "765_Myrtie",
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
               "seat": 2
             },
             {
-              "uuid": "bb5bae13-3d33-48a3-8937-a4840eabbe67",
-              "name": "435_Erinna",
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
               "seat": 3
             },
             {
-              "uuid": "b6aee75b-6530-4bd0-bfb0-fdc04f16dacd",
-              "name": "851_Dre",
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "796_Frederica",
+          "winner": "740_Josefa",
           "players": [
             {
-              "uuid": "d14616f6-6cc6-4559-8f98-e7b75355f387",
-              "name": "336_Evangeline",
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
               "seat": 1
             },
             {
-              "uuid": "b5fb7bd8-972a-4b95-a416-3a3cbd631c0a",
-              "name": "388_Othilie",
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
               "seat": 2
             },
             {
-              "uuid": "a480558c-2071-44af-9197-e33d7812f3b3",
-              "name": "796_Frederica",
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
               "seat": 3
             },
             {
-              "uuid": "3f1d469c-bdf9-4568-8b41-ffb156cb607a",
-              "name": "219_Cyndia",
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "529_Deana",
+          "winner": "628_Ainslee",
           "players": [
             {
-              "uuid": "63481553-09e9-42ec-93dd-b8540dd05886",
-              "name": "130_Fanya",
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
               "seat": 1
             },
             {
-              "uuid": "3d920e8f-d64e-49a3-988b-b41cf3a6bc04",
-              "name": "520_Karlee",
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
               "seat": 2
             },
             {
-              "uuid": "eef36e26-677c-41b8-8da5-c15d7145d0b9",
-              "name": "529_Deana",
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
               "seat": 3
             },
             {
-              "uuid": "ffee9c43-99a9-4310-a666-822fbaa9728d",
-              "name": "427_Latashia",
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "960_Lelah",
+          "winner": "794_Winona",
           "players": [
             {
-              "uuid": "011e5f5e-2150-43df-a40c-53a0d1213266",
-              "name": "361_Grayce",
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
               "seat": 1
             },
             {
-              "uuid": "0ac884b6-3092-4585-835d-1ff340b19979",
-              "name": "902_Monica",
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
               "seat": 2
             },
             {
-              "uuid": "bcf762b5-3a5d-474a-bbbf-b51a9f8348e1",
-              "name": "960_Lelah",
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
               "seat": 3
             },
             {
-              "uuid": "65568511-b886-4cea-8091-9126489265fb",
-              "name": "666_Hermine",
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "940_Marcela",
+          "winner": "468_Alejandra",
           "players": [
             {
-              "uuid": "89fb6d1d-2c08-4303-b8e7-953f085e1525",
-              "name": "450_Deb",
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
               "seat": 1
             },
             {
-              "uuid": "00ae2722-c25e-46a1-8655-53d881e25c6d",
-              "name": "940_Marcela",
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
               "seat": 2
             },
             {
-              "uuid": "d0b0ca98-09c3-46fd-9b86-be39293ef5b8",
-              "name": "746_Leonanie",
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
               "seat": 3
             },
             {
-              "uuid": "2562705b-e0a7-4699-b90f-15ecffdd10fc",
-              "name": "510_Norry",
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "893_Kacy",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "f2a3b032-fd5f-441e-ba18-7804d4ecfc99",
-              "name": "266_Doroteya",
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
               "seat": 1
             },
             {
-              "uuid": "dff5977a-4666-48c7-ac5d-0bbf5c266405",
-              "name": "893_Kacy",
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
               "seat": 2
             },
             {
-              "uuid": "9da36077-ead2-44ce-8ea7-07ba07869d59",
-              "name": "174_Marni",
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
               "seat": 3
             },
             {
-              "uuid": "98df3165-63bf-434d-a346-f5c53499cae1",
-              "name": "706_Kylynn",
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
               "seat": 4
             }
           ]
@@ -1136,401 +1328,2277 @@
       "id": 3,
       "games": [
         {
-          "winner": "973_Meris",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "77667f06-53ab-4fca-aaf8-3fe819d5d211",
-              "name": "221_Hailee",
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
               "seat": 1
             },
             {
-              "uuid": "b7ede97b-46fe-4a4f-9cce-3f13badf7d3a",
-              "name": "973_Meris",
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
               "seat": 2
             },
             {
-              "uuid": "1b774d42-c970-4b17-87b7-52f679dd79a7",
-              "name": "426_Maura",
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
               "seat": 3
             },
             {
-              "uuid": "6c7ece44-e3cb-4934-b5f7-32bba2872d49",
-              "name": "678_Mei",
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "785_Letti",
+          "winner": "847_Daphene",
           "players": [
             {
-              "uuid": "9ec1fb11-f926-4a76-a0b3-4c8e2b8a5055",
-              "name": "640_Luce",
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
               "seat": 1
             },
             {
-              "uuid": "41ccdcbe-b7d0-473d-966c-46cacc1c7701",
-              "name": "482_Mei",
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
               "seat": 2
             },
             {
-              "uuid": "017e9289-979f-4970-b5d2-cf48b21c3021",
-              "name": "785_Letti",
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
               "seat": 3
             },
             {
-              "uuid": "eef36e26-677c-41b8-8da5-c15d7145d0b9",
-              "name": "529_Deana",
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "695_Loren",
+          "winner": "745_Clementia",
           "players": [
             {
-              "uuid": "3b1d171b-1042-4ecf-830e-a07b04d369cf",
-              "name": "695_Loren",
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
               "seat": 1
             },
             {
-              "uuid": "ffee9c43-99a9-4310-a666-822fbaa9728d",
-              "name": "427_Latashia",
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
               "seat": 2
             },
             {
-              "uuid": "2562705b-e0a7-4699-b90f-15ecffdd10fc",
-              "name": "510_Norry",
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
               "seat": 3
             },
             {
-              "uuid": "b5fb7bd8-972a-4b95-a416-3a3cbd631c0a",
-              "name": "388_Othilie",
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "687_Kala",
+          "winner": "740_Josefa",
           "players": [
             {
-              "uuid": "8f59d1f1-5f70-4a70-9965-c9f2e41f4eea",
-              "name": "676_Abagail",
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
               "seat": 1
             },
             {
-              "uuid": "671c65cb-b75c-4766-ab07-815c18f073e7",
-              "name": "428_Rey",
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
               "seat": 2
             },
             {
-              "uuid": "32655103-7bc7-4e2c-95a8-26b388b12d0b",
-              "name": "687_Kala",
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
               "seat": 3
             },
             {
-              "uuid": "1deac4f0-2b95-40bc-818e-21261b2e2246",
-              "name": "412_Vera",
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "892_Nettle",
+          "winner": "917_Sibel",
           "players": [
             {
-              "uuid": "3c9596fc-754f-43eb-b24f-abe760a0e691",
-              "name": "765_Myrtie",
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
               "seat": 1
             },
             {
-              "uuid": "31029684-f4c1-4e92-833f-27a993f6b542",
-              "name": "208_Cristin",
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
               "seat": 2
             },
             {
-              "uuid": "2d51213f-4e1b-4506-a14a-5ca9108a1e5c",
-              "name": "892_Nettle",
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
               "seat": 3
             },
             {
-              "uuid": "072c10f1-a333-4621-ae21-b28fc6da3147",
-              "name": "771_Norean",
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "750_Alexa",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "bb5bae13-3d33-48a3-8937-a4840eabbe67",
-              "name": "435_Erinna",
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
               "seat": 1
             },
             {
-              "uuid": "02be3818-7620-4899-9783-56a34b31ad53",
-              "name": "727_Lenka",
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
               "seat": 2
             },
             {
-              "uuid": "15737f18-8dc8-47c8-95cf-f6cb75af9be3",
-              "name": "429_Gertruda",
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
               "seat": 3
             },
             {
-              "uuid": "8314eb77-947e-4c82-9a27-458fd7d4d708",
-              "name": "750_Alexa",
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "960_Lelah",
+          "winner": "893_Grace",
           "players": [
             {
-              "uuid": "03192ced-8ae6-449d-94bd-b5a0554c9c63",
-              "name": "709_Ulrica",
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
               "seat": 1
             },
             {
-              "uuid": "d14616f6-6cc6-4559-8f98-e7b75355f387",
-              "name": "336_Evangeline",
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
               "seat": 2
             },
             {
-              "uuid": "b6aee75b-6530-4bd0-bfb0-fdc04f16dacd",
-              "name": "851_Dre",
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
               "seat": 3
             },
             {
-              "uuid": "bcf762b5-3a5d-474a-bbbf-b51a9f8348e1",
-              "name": "960_Lelah",
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "658_Bettye",
+          "winner": "843_Bunny",
           "players": [
             {
-              "uuid": "bcac69cc-1005-482b-9518-f7952e783977",
-              "name": "472_Phaidra",
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
               "seat": 1
             },
             {
-              "uuid": "33f2f56e-734e-4fcc-a1ef-656abe667ab9",
-              "name": "658_Bettye",
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
               "seat": 2
             },
             {
-              "uuid": "15df5601-de82-417d-a10e-8ed32e84d55e",
-              "name": "237_Maribel",
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
               "seat": 3
             },
             {
-              "uuid": "72f0ea58-018a-4543-9adf-7c1267ecc7f8",
-              "name": "565_Anette",
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "982_Clara",
+          "winner": "733_Trudey",
           "players": [
             {
-              "uuid": "b84ca1dc-9516-4249-9544-da0b2639f57c",
-              "name": "602_Norina",
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
               "seat": 1
             },
             {
-              "uuid": "f012be20-f53d-4c44-87b2-bf05fcddd025",
-              "name": "982_Clara",
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
               "seat": 2
             },
             {
-              "uuid": "dff5977a-4666-48c7-ac5d-0bbf5c266405",
-              "name": "893_Kacy",
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
               "seat": 3
             },
             {
-              "uuid": "1b818843-5938-4e3c-a33f-0b2ee4c28820",
-              "name": "843_Christie",
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "940_Marcela",
+          "winner": "980_Nara",
           "players": [
             {
-              "uuid": "6607d5c0-4c44-4625-9d3e-57fb6be41f10",
-              "name": "583_Liane",
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
               "seat": 1
             },
             {
-              "uuid": "65568511-b886-4cea-8091-9126489265fb",
-              "name": "666_Hermine",
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
               "seat": 2
             },
             {
-              "uuid": "63481553-09e9-42ec-93dd-b8540dd05886",
-              "name": "130_Fanya",
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
               "seat": 3
             },
             {
-              "uuid": "00ae2722-c25e-46a1-8655-53d881e25c6d",
-              "name": "940_Marcela",
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "980_Billi",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "3031552b-f21b-4b5c-9ade-1fc30ada735b",
-              "name": "950_Fayette",
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
               "seat": 1
             },
             {
-              "uuid": "03a86bfc-6888-4e46-ab90-f787ac7174fe",
-              "name": "980_Billi",
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
               "seat": 2
             },
             {
-              "uuid": "0f7005d2-eadd-488d-9f87-f8b2d935fe53",
-              "name": "175_Asia",
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
               "seat": 3
             },
             {
-              "uuid": "f58840d1-750a-4348-b1dd-196ba2cf6bf0",
-              "name": "507_Ema",
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "902_Monica",
+          "winner": "751_Devan",
           "players": [
             {
-              "uuid": "d62de2aa-819b-4a56-8bc1-50e6e7679f57",
-              "name": "804_Ginelle",
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
               "seat": 1
             },
             {
-              "uuid": "3f1d469c-bdf9-4568-8b41-ffb156cb607a",
-              "name": "219_Cyndia",
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
               "seat": 2
             },
             {
-              "uuid": "011e5f5e-2150-43df-a40c-53a0d1213266",
-              "name": "361_Grayce",
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
               "seat": 3
             },
             {
-              "uuid": "0ac884b6-3092-4585-835d-1ff340b19979",
-              "name": "902_Monica",
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "911_Em",
+          "winner": "804_Ada",
           "players": [
             {
-              "uuid": "98df3165-63bf-434d-a346-f5c53499cae1",
-              "name": "706_Kylynn",
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
               "seat": 1
             },
             {
-              "uuid": "d23f91b5-7e3d-4adf-a455-5f01ccf6c8e1",
-              "name": "911_Em",
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
               "seat": 2
             },
             {
-              "uuid": "705949bc-6eb2-421b-8e0b-3ddc169d013f",
-              "name": "652_Olive",
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
               "seat": 3
             },
             {
-              "uuid": "9da36077-ead2-44ce-8ea7-07ba07869d59",
-              "name": "174_Marni",
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "796_Frederica",
+          "winner": "481_Frieda",
           "players": [
             {
-              "uuid": "098431ac-f977-4a1f-9c16-6ce3f8ea49b0",
-              "name": "217_Thelma",
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
               "seat": 1
             },
             {
-              "uuid": "2a299695-4201-47c9-b01e-95f80b04f946",
-              "name": "633_Kelcie",
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
               "seat": 2
             },
             {
-              "uuid": "f2a3b032-fd5f-441e-ba18-7804d4ecfc99",
-              "name": "266_Doroteya",
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
               "seat": 3
             },
             {
-              "uuid": "a480558c-2071-44af-9197-e33d7812f3b3",
-              "name": "796_Frederica",
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "804_Aggy",
+          "winner": "847_Katusha",
           "players": [
             {
-              "uuid": "d0b0ca98-09c3-46fd-9b86-be39293ef5b8",
-              "name": "746_Leonanie",
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
               "seat": 1
             },
             {
-              "uuid": "0ee62a4b-a75a-4087-9383-05d8b982c225",
-              "name": "804_Aggy",
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
               "seat": 2
             },
             {
-              "uuid": "21c564ea-73f4-472c-92de-319d027fcac3",
-              "name": "405_Aindrea",
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
               "seat": 3
             },
             {
-              "uuid": "3d920e8f-d64e-49a3-988b-b41cf3a6bc04",
-              "name": "520_Karlee",
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
               "seat": 4
             }
           ]
         },
         {
-          "winner": "810_Colly",
+          "winner": "draw",
           "players": [
             {
-              "uuid": "fef1e37d-c98f-4cd5-9ea4-2cf29819083f",
-              "name": "810_Colly",
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
               "seat": 1
             },
             {
-              "uuid": "89fb6d1d-2c08-4303-b8e7-953f085e1525",
-              "name": "450_Deb",
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
               "seat": 2
             },
             {
-              "uuid": "bdc7839e-9792-4d38-94cd-dbef8d52a89d",
-              "name": "161_Willi",
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
               "seat": 3
             },
             {
-              "uuid": "8df174f3-598a-45dd-b966-664a575f6c1a",
-              "name": "255_Delcina",
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
+              "seat": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "games": [
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
+              "seat": 1
+            },
+            {
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
+              "seat": 2
+            },
+            {
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
+              "seat": 3
+            },
+            {
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "697_Vickie",
+          "players": [
+            {
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
+              "seat": 1
+            },
+            {
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
+              "seat": 2
+            },
+            {
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
+              "seat": 3
+            },
+            {
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "980_Nara",
+          "players": [
+            {
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
+              "seat": 1
+            },
+            {
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
+              "seat": 2
+            },
+            {
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
+              "seat": 3
+            },
+            {
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "701_Shane",
+          "players": [
+            {
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
+              "seat": 1
+            },
+            {
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
+              "seat": 2
+            },
+            {
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
+              "seat": 3
+            },
+            {
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "632_Dorothea",
+          "players": [
+            {
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
+              "seat": 1
+            },
+            {
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
+              "seat": 2
+            },
+            {
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
+              "seat": 3
+            },
+            {
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
+              "seat": 1
+            },
+            {
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
+              "seat": 2
+            },
+            {
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
+              "seat": 3
+            },
+            {
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "740_Josefa",
+          "players": [
+            {
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
+              "seat": 1
+            },
+            {
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
+              "seat": 2
+            },
+            {
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
+              "seat": 3
+            },
+            {
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "847_Daphene",
+          "players": [
+            {
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
+              "seat": 1
+            },
+            {
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
+              "seat": 2
+            },
+            {
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
+              "seat": 3
+            },
+            {
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "917_Sibel",
+          "players": [
+            {
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
+              "seat": 1
+            },
+            {
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
+              "seat": 2
+            },
+            {
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
+              "seat": 3
+            },
+            {
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "847_Katusha",
+          "players": [
+            {
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
+              "seat": 1
+            },
+            {
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
+              "seat": 2
+            },
+            {
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
+              "seat": 3
+            },
+            {
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
+              "seat": 1
+            },
+            {
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
+              "seat": 2
+            },
+            {
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
+              "seat": 3
+            },
+            {
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "893_Grace",
+          "players": [
+            {
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
+              "seat": 1
+            },
+            {
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
+              "seat": 2
+            },
+            {
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
+              "seat": 3
+            },
+            {
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "733_Trudey",
+          "players": [
+            {
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
+              "seat": 1
+            },
+            {
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
+              "seat": 2
+            },
+            {
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
+              "seat": 3
+            },
+            {
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "628_Ainslee",
+          "players": [
+            {
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
+              "seat": 1
+            },
+            {
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
+              "seat": 2
+            },
+            {
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
+              "seat": 3
+            },
+            {
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "468_Alejandra",
+          "players": [
+            {
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
+              "seat": 1
+            },
+            {
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
+              "seat": 2
+            },
+            {
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
+              "seat": 3
+            },
+            {
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
+              "seat": 1
+            },
+            {
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
+              "seat": 2
+            },
+            {
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
+              "seat": 3
+            },
+            {
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
+              "seat": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "games": [
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
+              "seat": 1
+            },
+            {
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
+              "seat": 2
+            },
+            {
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
+              "seat": 3
+            },
+            {
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "980_Nara",
+          "players": [
+            {
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
+              "seat": 1
+            },
+            {
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
+              "seat": 2
+            },
+            {
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
+              "seat": 3
+            },
+            {
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "917_Sibel",
+          "players": [
+            {
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
+              "seat": 1
+            },
+            {
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
+              "seat": 2
+            },
+            {
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
+              "seat": 3
+            },
+            {
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "697_Vickie",
+          "players": [
+            {
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
+              "seat": 1
+            },
+            {
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
+              "seat": 2
+            },
+            {
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
+              "seat": 3
+            },
+            {
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "755_Philis",
+          "players": [
+            {
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
+              "seat": 1
+            },
+            {
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
+              "seat": 2
+            },
+            {
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
+              "seat": 3
+            },
+            {
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
+              "seat": 1
+            },
+            {
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
+              "seat": 2
+            },
+            {
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
+              "seat": 3
+            },
+            {
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "893_Grace",
+          "players": [
+            {
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
+              "seat": 1
+            },
+            {
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
+              "seat": 2
+            },
+            {
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
+              "seat": 3
+            },
+            {
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "751_Devan",
+          "players": [
+            {
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
+              "seat": 1
+            },
+            {
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
+              "seat": 2
+            },
+            {
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
+              "seat": 3
+            },
+            {
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "745_Clementia",
+          "players": [
+            {
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
+              "seat": 1
+            },
+            {
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
+              "seat": 2
+            },
+            {
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
+              "seat": 3
+            },
+            {
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "774_Sibelle",
+          "players": [
+            {
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
+              "seat": 1
+            },
+            {
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
+              "seat": 2
+            },
+            {
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
+              "seat": 3
+            },
+            {
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
+              "seat": 1
+            },
+            {
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
+              "seat": 2
+            },
+            {
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
+              "seat": 3
+            },
+            {
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "804_Ada",
+          "players": [
+            {
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
+              "seat": 1
+            },
+            {
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
+              "seat": 2
+            },
+            {
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
+              "seat": 3
+            },
+            {
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "847_Daphene",
+          "players": [
+            {
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
+              "seat": 1
+            },
+            {
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
+              "seat": 2
+            },
+            {
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
+              "seat": 3
+            },
+            {
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "387_Lyndsay",
+          "players": [
+            {
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
+              "seat": 1
+            },
+            {
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
+              "seat": 2
+            },
+            {
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
+              "seat": 3
+            },
+            {
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "582_Jilly",
+          "players": [
+            {
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
+              "seat": 1
+            },
+            {
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
+              "seat": 2
+            },
+            {
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
+              "seat": 3
+            },
+            {
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
+              "seat": 1
+            },
+            {
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
+              "seat": 2
+            },
+            {
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
+              "seat": 3
+            },
+            {
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
+              "seat": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "games": [
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
+              "seat": 1
+            },
+            {
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
+              "seat": 2
+            },
+            {
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
+              "seat": 3
+            },
+            {
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "607_Dalila",
+          "players": [
+            {
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
+              "seat": 1
+            },
+            {
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
+              "seat": 2
+            },
+            {
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
+              "seat": 3
+            },
+            {
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "845_Laural",
+          "players": [
+            {
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
+              "seat": 1
+            },
+            {
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
+              "seat": 2
+            },
+            {
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
+              "seat": 3
+            },
+            {
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "796_Martelle",
+          "players": [
+            {
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
+              "seat": 1
+            },
+            {
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
+              "seat": 2
+            },
+            {
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
+              "seat": 3
+            },
+            {
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "794_Winona",
+          "players": [
+            {
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
+              "seat": 1
+            },
+            {
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
+              "seat": 2
+            },
+            {
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
+              "seat": 3
+            },
+            {
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
+              "seat": 1
+            },
+            {
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
+              "seat": 2
+            },
+            {
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
+              "seat": 3
+            },
+            {
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "847_Daphene",
+          "players": [
+            {
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
+              "seat": 1
+            },
+            {
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
+              "seat": 2
+            },
+            {
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
+              "seat": 3
+            },
+            {
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "566_Mina",
+          "players": [
+            {
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
+              "seat": 1
+            },
+            {
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
+              "seat": 2
+            },
+            {
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
+              "seat": 3
+            },
+            {
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "481_Frieda",
+          "players": [
+            {
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
+              "seat": 1
+            },
+            {
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
+              "seat": 2
+            },
+            {
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
+              "seat": 3
+            },
+            {
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "843_Bunny",
+          "players": [
+            {
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
+              "seat": 1
+            },
+            {
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
+              "seat": 2
+            },
+            {
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
+              "seat": 3
+            },
+            {
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
+              "seat": 1
+            },
+            {
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
+              "seat": 2
+            },
+            {
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
+              "seat": 3
+            },
+            {
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "423_Lizabeth",
+          "players": [
+            {
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
+              "seat": 1
+            },
+            {
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
+              "seat": 2
+            },
+            {
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
+              "seat": 3
+            },
+            {
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "930_Anitra",
+          "players": [
+            {
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
+              "seat": 1
+            },
+            {
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
+              "seat": 2
+            },
+            {
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
+              "seat": 3
+            },
+            {
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "774_Sibelle",
+          "players": [
+            {
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
+              "seat": 1
+            },
+            {
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
+              "seat": 2
+            },
+            {
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
+              "seat": 3
+            },
+            {
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "917_Sibel",
+          "players": [
+            {
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
+              "seat": 1
+            },
+            {
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
+              "seat": 2
+            },
+            {
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
+              "seat": 3
+            },
+            {
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": "draw",
+          "players": [
+            {
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
+              "seat": 1
+            },
+            {
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
+              "seat": 2
+            },
+            {
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
+              "seat": 3
+            },
+            {
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
+              "seat": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "games": [
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
+              "name": "847_Daphene",
+              "score": 2299,
+              "wins": 6,
+              "losses": 0,
+              "draw": 0,
+              "seat": 1
+            },
+            {
+              "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
+              "name": "917_Sibel",
+              "score": 2163,
+              "wins": 6,
+              "losses": 0,
+              "draw": 0,
+              "seat": 2
+            },
+            {
+              "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
+              "name": "893_Grace",
+              "score": 1682,
+              "wins": 4,
+              "losses": 1,
+              "draw": 1,
+              "seat": 3
+            },
+            {
+              "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
+              "name": "980_Nara",
+              "score": 1552,
+              "wins": 4,
+              "losses": 0,
+              "draw": 2,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
+              "name": "843_Bunny",
+              "score": 1371,
+              "wins": 3,
+              "losses": 2,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
+              "name": "847_Katusha",
+              "score": 1340,
+              "wins": 3,
+              "losses": 3,
+              "draw": 0,
+              "seat": 2
+            },
+            {
+              "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
+              "name": "481_Frieda",
+              "score": 1325,
+              "wins": 3,
+              "losses": 2,
+              "draw": 1,
+              "seat": 3
+            },
+            {
+              "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
+              "name": "804_Ada",
+              "score": 1292,
+              "wins": 3,
+              "losses": 1,
+              "draw": 2,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
+              "name": "740_Josefa",
+              "score": 1277,
+              "wins": 3,
+              "losses": 2,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
+              "name": "701_Shane",
+              "score": 1276,
+              "wins": 3,
+              "losses": 0,
+              "draw": 3,
+              "seat": 2
+            },
+            {
+              "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
+              "name": "774_Sibelle",
+              "score": 1276,
+              "wins": 3,
+              "losses": 2,
+              "draw": 1,
+              "seat": 3
+            },
+            {
+              "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
+              "name": "468_Alejandra",
+              "score": 1276,
+              "wins": 3,
+              "losses": 3,
+              "draw": 0,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
+              "name": "751_Devan",
+              "score": 1114,
+              "wins": 2,
+              "losses": 2,
+              "draw": 2,
+              "seat": 1
+            },
+            {
+              "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
+              "name": "796_Martelle",
+              "score": 1112,
+              "wins": 2,
+              "losses": 1,
+              "draw": 3,
+              "seat": 2
+            },
+            {
+              "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
+              "name": "794_Winona",
+              "score": 1082,
+              "wins": 2,
+              "losses": 0,
+              "draw": 4,
+              "seat": 3
+            },
+            {
+              "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
+              "name": "745_Clementia",
+              "score": 1052,
+              "wins": 2,
+              "losses": 3,
+              "draw": 1,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
+              "name": "566_Mina",
+              "score": 1052,
+              "wins": 2,
+              "losses": 4,
+              "draw": 0,
+              "seat": 1
+            },
+            {
+              "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
+              "name": "733_Trudey",
+              "score": 1052,
+              "wins": 2,
+              "losses": 3,
+              "draw": 1,
+              "seat": 2
+            },
+            {
+              "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
+              "name": "845_Laural",
+              "score": 1052,
+              "wins": 2,
+              "losses": 2,
+              "draw": 2,
+              "seat": 3
+            },
+            {
+              "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
+              "name": "628_Ainslee",
+              "score": 1050,
+              "wins": 2,
+              "losses": 4,
+              "draw": 0,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
+              "name": "697_Vickie",
+              "score": 1049,
+              "wins": 2,
+              "losses": 3,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+              "name": "930_Anitra",
+              "score": 930,
+              "wins": 1,
+              "losses": 0,
+              "draw": 5,
+              "seat": 2
+            },
+            {
+              "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+              "name": "607_Dalila",
+              "score": 857,
+              "wins": 1,
+              "losses": 4,
+              "draw": 1,
+              "seat": 3
+            },
+            {
+              "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+              "name": "632_Dorothea",
+              "score": 856,
+              "wins": 1,
+              "losses": 3,
+              "draw": 2,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+              "name": "755_Philis",
+              "score": 856,
+              "wins": 1,
+              "losses": 4,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
+              "name": "423_Lizabeth",
+              "score": 843,
+              "wins": 1,
+              "losses": 5,
+              "draw": 0,
+              "seat": 2
+            },
+            {
+              "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
+              "name": "509_Modestia",
+              "score": 842,
+              "wins": 1,
+              "losses": 4,
+              "draw": 1,
+              "seat": 3
+            },
+            {
+              "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
+              "name": "837_Allyce",
+              "score": 842,
+              "wins": 1,
+              "losses": 2,
+              "draw": 3,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
+              "name": "593_Franky",
+              "score": 842,
+              "wins": 1,
+              "losses": 3,
+              "draw": 2,
+              "seat": 1
+            },
+            {
+              "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
+              "name": "387_Lyndsay",
+              "score": 841,
+              "wins": 1,
+              "losses": 4,
+              "draw": 1,
+              "seat": 2
+            },
+            {
+              "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
+              "name": "582_Jilly",
+              "score": 841,
+              "wins": 1,
+              "losses": 3,
+              "draw": 2,
+              "seat": 3
+            },
+            {
+              "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
+              "name": "415_Anabella",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
+              "name": "477_Bernadette",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 1
+            },
+            {
+              "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
+              "name": "132_Megen",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 2
+            },
+            {
+              "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
+              "name": "217_Renata",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 3
+            },
+            {
+              "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
+              "name": "515_Edin",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
+              "name": "192_Ethelyn",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
+              "name": "707_Micky",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 2
+            },
+            {
+              "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
+              "name": "405_Glyn",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 3
+            },
+            {
+              "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
+              "name": "538_Brandice",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
+              "name": "317_Sean",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
+              "name": "267_Carree",
+              "score": 647,
+              "wins": 0,
+              "losses": 3,
+              "draw": 3,
+              "seat": 2
+            },
+            {
+              "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
+              "name": "348_Lesly",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 3
+            },
+            {
+              "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
+              "name": "350_Clareta",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
+              "name": "248_Maible",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 1
+            },
+            {
+              "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
+              "name": "140_Therine",
+              "score": 647,
+              "wins": 0,
+              "losses": 3,
+              "draw": 3,
+              "seat": 2
+            },
+            {
+              "uuid": "78512702-2860-4104-999f-aff3933a4b74",
+              "name": "211_Katerine",
+              "score": 647,
+              "wins": 0,
+              "losses": 2,
+              "draw": 4,
+              "seat": 3
+            },
+            {
+              "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
+              "name": "149_Tresa",
+              "score": 647,
+              "wins": 0,
+              "losses": 3,
+              "draw": 3,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
+              "name": "176_Odetta",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 1
+            },
+            {
+              "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
+              "name": "440_Susana",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 2
+            },
+            {
+              "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
+              "name": "680_Caroljean",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 3
+            },
+            {
+              "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
+              "name": "495_Daffy",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
+              "name": "309_Ralina",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 1
+            },
+            {
+              "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
+              "name": "162_Adey",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 2
+            },
+            {
+              "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
+              "name": "261_Bel",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 3
+            },
+            {
+              "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
+              "name": "409_Delly",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
+              "name": "550_Siana",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 1
+            },
+            {
+              "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
+              "name": "232_Cynde",
+              "score": 647,
+              "wins": 0,
+              "losses": 3,
+              "draw": 3,
+              "seat": 2
+            },
+            {
+              "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
+              "name": "310_Hailee",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
+              "seat": 3
+            },
+            {
+              "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
+              "name": "245_Micki",
+              "score": 647,
+              "wins": 0,
+              "losses": 6,
+              "draw": 0,
+              "seat": 4
+            }
+          ]
+        },
+        {
+          "winner": null,
+          "players": [
+            {
+              "uuid": "55db058e-21cd-4344-b868-785e21978189",
+              "name": "151_Nell",
+              "score": 647,
+              "wins": 0,
+              "losses": 5,
+              "draw": 1,
+              "seat": 1
+            },
+            {
+              "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
+              "name": "323_Danyelle",
+              "score": 647,
+              "wins": 0,
+              "losses": 3,
+              "draw": 3,
+              "seat": 2
+            },
+            {
+              "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
+              "name": "258_Leila",
+              "score": 647,
+              "wins": 0,
+              "losses": 3,
+              "draw": 3,
+              "seat": 3
+            },
+            {
+              "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
+              "name": "195_Leigh",
+              "score": 647,
+              "wins": 0,
+              "losses": 4,
+              "draw": 2,
               "seat": 4
             }
           ]
