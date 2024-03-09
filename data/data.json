@@ -3,514 +3,514 @@
     {
       "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
       "name": "847_Daphene",
-      "score": 2299,
+      "score": 2138,
       "wins": 6,
       "losses": 0,
-      "draw": 0
+      "draw": 1
     },
     {
       "uuid": "22535594-b74e-4e87-a41f-1050bc1feab7",
       "name": "917_Sibel",
-      "score": 2163,
+      "score": 2012,
       "wins": 6,
       "losses": 0,
-      "draw": 0
+      "draw": 1
     },
     {
       "uuid": "08c44561-b5d5-4c11-af7a-276b09eac82c",
       "name": "893_Grace",
-      "score": 1682,
+      "score": 1564,
       "wins": 4,
       "losses": 1,
-      "draw": 1
+      "draw": 2
     },
     {
       "uuid": "d9962602-2a72-4bf9-917d-749fff2ec512",
       "name": "980_Nara",
-      "score": 1552,
+      "score": 1443,
       "wins": 4,
       "losses": 0,
-      "draw": 2
+      "draw": 3
     },
     {
       "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
       "name": "843_Bunny",
-      "score": 1371,
+      "score": 1275,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "draw": 1
     },
     {
       "uuid": "09d8b603-f2c7-4b92-89e6-60f9a37b145c",
       "name": "847_Katusha",
-      "score": 1340,
-      "wins": 3,
+      "score": 1619,
+      "wins": 4,
       "losses": 3,
       "draw": 0
     },
     {
       "uuid": "0d1c9f0e-75fb-4cec-9c46-6a808717c9ff",
       "name": "481_Frieda",
-      "score": 1325,
+      "score": 1232,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "draw": 1
     },
     {
       "uuid": "b726e53e-c79a-4e7a-85ca-1f550464077a",
       "name": "804_Ada",
-      "score": 1292,
+      "score": 1202,
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "draw": 2
     },
     {
       "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
       "name": "740_Josefa",
-      "score": 1277,
+      "score": 1188,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "draw": 1
     },
     {
       "uuid": "44abf035-8222-4ff8-bb72-4c39753cb36c",
       "name": "701_Shane",
-      "score": 1276,
+      "score": 1187,
       "wins": 3,
-      "losses": 0,
+      "losses": 1,
       "draw": 3
     },
     {
       "uuid": "8c11a6bf-bb7a-4bd8-a649-88166300f397",
       "name": "774_Sibelle",
-      "score": 1276,
-      "wins": 3,
+      "score": 1543,
+      "wins": 4,
       "losses": 2,
       "draw": 1
     },
     {
       "uuid": "3c727b09-a4ae-4122-96a2-2d153f650e28",
       "name": "468_Alejandra",
-      "score": 1276,
+      "score": 1187,
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "draw": 0
     },
     {
       "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
       "name": "751_Devan",
-      "score": 1114,
+      "score": 1036,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "draw": 2
     },
     {
       "uuid": "b5a3f09a-dcaa-44f3-9ea4-4ba0843f0560",
       "name": "796_Martelle",
-      "score": 1112,
-      "wins": 2,
+      "score": 1340,
+      "wins": 3,
       "losses": 1,
       "draw": 3
     },
     {
       "uuid": "8103ff6a-60e7-4009-b663-368cfb81db72",
       "name": "794_Winona",
-      "score": 1082,
+      "score": 1006,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "draw": 4
     },
     {
       "uuid": "a2f9d0d5-4531-46b2-b8e8-009e8a814182",
       "name": "745_Clementia",
-      "score": 1052,
+      "score": 978,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "draw": 1
     },
     {
       "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
       "name": "566_Mina",
-      "score": 1052,
+      "score": 978,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "draw": 0
     },
     {
       "uuid": "cae6bfe6-f358-4628-ac51-e919d527f5c8",
       "name": "733_Trudey",
-      "score": 1052,
+      "score": 978,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "draw": 1
     },
     {
       "uuid": "c8fc3e75-2caf-4564-986b-22c702d9c19d",
       "name": "845_Laural",
-      "score": 1052,
-      "wins": 2,
+      "score": 1274,
+      "wins": 3,
       "losses": 2,
       "draw": 2
     },
     {
       "uuid": "a07892ea-04a3-44b0-b215-2d71166e3fa2",
       "name": "628_Ainslee",
-      "score": 1050,
+      "score": 976,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "draw": 0
     },
     {
       "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
       "name": "697_Vickie",
-      "score": 1049,
+      "score": 976,
       "wins": 2,
-      "losses": 3,
-      "draw": 1
-    },
-    {
-      "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
-      "name": "930_Anitra",
-      "score": 930,
-      "wins": 1,
-      "losses": 0,
-      "draw": 5
-    },
-    {
-      "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
-      "name": "607_Dalila",
-      "score": 857,
-      "wins": 1,
-      "losses": 4,
-      "draw": 1
-    },
-    {
-      "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
-      "name": "632_Dorothea",
-      "score": 856,
-      "wins": 1,
       "losses": 3,
       "draw": 2
     },
     {
-      "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
-      "name": "755_Philis",
-      "score": 856,
+      "uuid": "f0bd5029-ea44-472f-b2e0-544415c51d45",
+      "name": "930_Anitra",
+      "score": 865,
+      "wins": 1,
+      "losses": 0,
+      "draw": 6
+    },
+    {
+      "uuid": "8f90d9fd-a4d4-4b9d-b325-9a5dbe289cae",
+      "name": "607_Dalila",
+      "score": 797,
       "wins": 1,
       "losses": 4,
+      "draw": 2
+    },
+    {
+      "uuid": "4d5c5f30-d3cd-4bc1-be52-09819314d45f",
+      "name": "632_Dorothea",
+      "score": 796,
+      "wins": 1,
+      "losses": 3,
+      "draw": 3
+    },
+    {
+      "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
+      "name": "755_Philis",
+      "score": 796,
+      "wins": 1,
+      "losses": 5,
       "draw": 1
     },
     {
       "uuid": "41a727e8-9af7-4a39-9963-aefe741ac3b7",
       "name": "423_Lizabeth",
-      "score": 843,
+      "score": 784,
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "draw": 0
     },
     {
       "uuid": "a5380cfc-c953-4cc4-b937-9f7594df9f63",
       "name": "509_Modestia",
-      "score": 842,
+      "score": 783,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "draw": 1
     },
     {
       "uuid": "a75b704b-abc1-41e9-a8b9-6070ac8a7ec0",
       "name": "837_Allyce",
-      "score": 842,
-      "wins": 1,
+      "score": 1020,
+      "wins": 2,
       "losses": 2,
       "draw": 3
     },
     {
       "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
       "name": "593_Franky",
-      "score": 842,
-      "wins": 1,
+      "score": 1005,
+      "wins": 2,
       "losses": 3,
       "draw": 2
     },
     {
       "uuid": "6e52542d-a7d2-46f9-ac46-e3e1b49a36a3",
       "name": "387_Lyndsay",
-      "score": 841,
+      "score": 782,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "draw": 1
     },
     {
       "uuid": "aaf1c19b-8ec1-4672-98df-f82e4f29ab98",
       "name": "582_Jilly",
-      "score": 841,
+      "score": 782,
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "draw": 2
     },
     {
       "uuid": "4c0bbe43-c256-4d71-8b94-4998e9c768f5",
       "name": "415_Anabella",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
       "name": "477_Bernadette",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "eb38512c-4c03-4525-9e9d-04d76c605ba2",
       "name": "132_Megen",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 5,
+      "losses": 6,
       "draw": 1
     },
     {
       "uuid": "a65ea053-6baf-4bfa-ac03-e498e9551343",
       "name": "217_Renata",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "draw": 0
     },
     {
       "uuid": "801fde2a-ea02-40cd-92e5-c2092e987860",
       "name": "515_Edin",
-      "score": 647,
-      "wins": 0,
+      "score": 782,
+      "wins": 1,
       "losses": 5,
       "draw": 1
     },
     {
       "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
       "name": "192_Ethelyn",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 5,
+      "losses": 6,
       "draw": 1
     },
     {
       "uuid": "aaabb00f-c49f-421d-9500-69eb697d019a",
       "name": "707_Micky",
-      "score": 647,
-      "wins": 0,
+      "score": 782,
+      "wins": 1,
       "losses": 4,
       "draw": 2
     },
     {
       "uuid": "e40ed91a-f229-4bf8-bf70-b985a2542ffa",
       "name": "405_Glyn",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "draw": 0
     },
     {
       "uuid": "db67aadf-8446-458e-8bc1-d52781df4622",
       "name": "538_Brandice",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 5,
+      "losses": 6,
       "draw": 1
     },
     {
       "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
       "name": "317_Sean",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 5,
-      "draw": 1
+      "draw": 2
     },
     {
       "uuid": "c52a9759-1f41-4824-a1e7-341ebc3bf964",
       "name": "267_Carree",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 3,
-      "draw": 3
+      "draw": 4
     },
     {
       "uuid": "4bd79dee-428b-47ce-9773-a3a1d8642f91",
       "name": "348_Lesly",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 6,
-      "draw": 0
+      "draw": 1
     },
     {
       "uuid": "721ccee8-daae-4bf7-948e-edbcde57ee6a",
       "name": "350_Clareta",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 5,
-      "draw": 1
+      "draw": 2
     },
     {
       "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
       "name": "248_Maible",
-      "score": 647,
-      "wins": 0,
+      "score": 782,
+      "wins": 1,
       "losses": 4,
       "draw": 2
     },
     {
       "uuid": "38994d34-2935-4854-81d8-5b86b9b58886",
       "name": "140_Therine",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "draw": 3
     },
     {
       "uuid": "78512702-2860-4104-999f-aff3933a4b74",
       "name": "211_Katerine",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "draw": 4
     },
     {
       "uuid": "bbeba3f3-7d18-4477-a19b-e3b948acfd86",
       "name": "149_Tresa",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "draw": 3
     },
     {
       "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
       "name": "176_Odetta",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "8471585a-00c3-42ca-a6f1-3cf4c81b05f0",
       "name": "440_Susana",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "draw": 0
     },
     {
       "uuid": "5054e4f1-adb8-4703-b49a-fc63272da253",
       "name": "680_Caroljean",
-      "score": 647,
-      "wins": 0,
+      "score": 782,
+      "wins": 1,
       "losses": 4,
       "draw": 2
     },
     {
       "uuid": "9b208d07-3d48-4188-9c28-ca342dffeebf",
       "name": "495_Daffy",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
       "name": "309_Ralina",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "6cbff3b3-2f34-484a-a884-fb06a59b256f",
       "name": "162_Adey",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "f0a417c3-d8f7-4834-aad8-4447897b2469",
       "name": "261_Bel",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "draw": 0
     },
     {
       "uuid": "97c7caad-4b1f-4bcb-9c8b-5f91f7ca2ca1",
       "name": "409_Delly",
-      "score": 647,
-      "wins": 0,
+      "score": 782,
+      "wins": 1,
       "losses": 5,
       "draw": 1
     },
     {
       "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
       "name": "550_Siana",
-      "score": 647,
-      "wins": 0,
+      "score": 782,
+      "wins": 1,
       "losses": 6,
       "draw": 0
     },
     {
       "uuid": "2975bd13-981e-4e5a-8a04-55d146466ac3",
       "name": "232_Cynde",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "draw": 3
     },
     {
       "uuid": "e26d136b-bcce-464d-a38b-dbbfb377e0e5",
       "name": "310_Hailee",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "draw": 2
     },
     {
       "uuid": "170898cc-0491-4d0e-81cb-876fd0f94b98",
       "name": "245_Micki",
-      "score": 647,
+      "score": 602,
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "draw": 0
     },
     {
       "uuid": "55db058e-21cd-4344-b868-785e21978189",
       "name": "151_Nell",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 5,
-      "draw": 1
+      "draw": 2
     },
     {
       "uuid": "c7f4c519-0bdb-401e-af1b-7eac953f63c2",
       "name": "323_Danyelle",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 3,
-      "draw": 3
+      "draw": 4
     },
     {
       "uuid": "11a449b7-93d1-4428-8bc1-100e0b451f09",
       "name": "258_Leila",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 3,
-      "draw": 3
+      "draw": 4
     },
     {
       "uuid": "3eb26e4e-f74e-4773-b27c-42683373753b",
       "name": "195_Leigh",
-      "score": 647,
+      "score": 602,
       "wins": 0,
       "losses": 4,
-      "draw": 2
+      "draw": 3
     }
   ],
   "rounds": [
@@ -2948,7 +2948,7 @@
       "id": 7,
       "games": [
         {
-          "winner": null,
+          "winner": "draw",
           "players": [
             {
               "uuid": "da216a77-4429-493c-aeaf-b150d7c5fbfe",
@@ -2989,7 +2989,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "847_Katusha",
           "players": [
             {
               "uuid": "548ade89-9e61-4a3d-82b6-b8a393239ac2",
@@ -3030,7 +3030,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "774_Sibelle",
           "players": [
             {
               "uuid": "a4b35337-faba-4520-b1cc-97e235174fb1",
@@ -3071,7 +3071,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "796_Martelle",
           "players": [
             {
               "uuid": "c623bb67-bacf-4473-987a-e05c18c0cfd6",
@@ -3112,7 +3112,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "845_Laural",
           "players": [
             {
               "uuid": "941d07cd-92aa-4adb-a54c-ec2f7045c738",
@@ -3153,7 +3153,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "draw",
           "players": [
             {
               "uuid": "14c243bc-02d6-4c1b-bfd9-8ce05fd8343a",
@@ -3194,7 +3194,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "837_Allyce",
           "players": [
             {
               "uuid": "b273e89c-f620-4f0c-a67f-c765916d2d90",
@@ -3235,7 +3235,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "593_Franky",
           "players": [
             {
               "uuid": "a2a7660d-bec4-4b68-ba2b-f3d9bcca18d3",
@@ -3276,7 +3276,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "515_Edin",
           "players": [
             {
               "uuid": "0be82d66-e59a-43f3-8088-a4efafca2aaf",
@@ -3317,7 +3317,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "707_Micky",
           "players": [
             {
               "uuid": "d34ad78d-6781-4959-b660-c247172a2709",
@@ -3358,7 +3358,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "draw",
           "players": [
             {
               "uuid": "1d9e8cbb-5547-4789-867c-1bc56bd1f764",
@@ -3399,7 +3399,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "248_Maible",
           "players": [
             {
               "uuid": "fb7ce753-c29e-481d-9c55-befb0598a361",
@@ -3440,7 +3440,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "680_Caroljean",
           "players": [
             {
               "uuid": "89980fe9-3d00-4f1f-9a20-bcd0d67f6dac",
@@ -3481,7 +3481,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "409_Delly",
           "players": [
             {
               "uuid": "5e153501-1af3-4294-819c-51b68b322a77",
@@ -3522,7 +3522,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "550_Siana",
           "players": [
             {
               "uuid": "39769072-de7b-47b1-9f67-3ba4cc0b5a4b",
@@ -3563,7 +3563,7 @@
           ]
         },
         {
-          "winner": null,
+          "winner": "draw",
           "players": [
             {
               "uuid": "55db058e-21cd-4344-b868-785e21978189",
