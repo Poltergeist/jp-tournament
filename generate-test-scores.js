@@ -6,10 +6,16 @@ fs.readFile("./data/data.json", "utf8", (err, json) => {
     return;
   }
   const data = JSON.parse(json);
+  const drawEveryXGames = 5;
 
-  data.rounds[data.rounds.length - 1].games.map((game) => {
-    game.winner = [...game.players].sort((a, b) => 
-      b.name > a.name ? 1 : -1, 
+  data.rounds[data.rounds.length - 1].games.map((game, index) => {
+    if (index % drawEveryXGames === 0) {
+      game.winner = "draw";
+      return game;
+    }
+    game.winner = [...game.players].sort((a, b) => {
+      return b.name > a.name ? 1 : -1;
+    }
     )[0].name;
     return game;
   });
@@ -18,5 +24,6 @@ fs.readFile("./data/data.json", "utf8", (err, json) => {
     if (err) {
       console.log(err);
     }
+    console.log("Test scores generated");
   });
 });
