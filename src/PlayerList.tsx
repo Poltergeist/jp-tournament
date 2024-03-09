@@ -1,7 +1,7 @@
 import { TableContainer, Thead, Tr, Th, Table, Tbody, Td } from "@chakra-ui/react";
 
-function PlayerList(props: { players: Array<{ uuid: number, name: string, score?: number }> }) {
-  const players = props.players[0].score ? props.players.sort((a, b) => b.score - a.score) : props.players;
+function PlayerList(props: { players: Array<{ uuid: string, name: string, score?: number }> }) {
+  const players = props.players[0].score ? props.players.sort((a, b) => a.score == undefined || b.score == undefined ? 0 : b.score - a.score) : props.players;
   return (
     <>
       <TableContainer>

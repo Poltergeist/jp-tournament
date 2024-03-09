@@ -1,6 +1,6 @@
 import { Box, Badge, UnorderedList, ListItem } from "@chakra-ui/react";
 
-function Game(props: { pod: { winner: string, players: Array<{ uuid: number, name: string }> } }) {
+function Game(props: { pod: { winner: string, players: Array<{ uuid: string, name: string }> } }) {
   return (
     <Box>
       <UnorderedList>
